@@ -2,7 +2,7 @@
   <div id="app">
       <cHeader></cHeader>
       <router-view name='main'></router-view>
-        <router-view name='side' ref='child'></router-view>
+        <router-view name='side'></router-view>
   </div>
 </template>
 <script>
